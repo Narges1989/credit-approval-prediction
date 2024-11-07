@@ -1,7 +1,4 @@
 # Credit Card Approval Prediction
-
-![Credit card being held in hand]
-
 ## Overview
 
 Commercial banks receive a large number of credit card applications every day. Many of these applications are rejected for various reasons such as high loan balances, low income, or too many inquiries on an individual's credit report. Manually analyzing these applications is time-consuming, error-prone, and expensive. 
